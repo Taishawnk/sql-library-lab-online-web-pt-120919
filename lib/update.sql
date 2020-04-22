@@ -1,1 +1,1 @@
-UPDATE species SET books.title = 'The Hobbit' WHERE books.id = 1
+UPDATE species SET species.characters = 'The Hobbit' WHERE species.c = 1
