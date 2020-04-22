@@ -1,4 +1,4 @@
-UPDATE 
+UPDATE characters
 SET species = 'The Hobbit' WHERE characters = "cylon";
 
 UPDATE table_name
