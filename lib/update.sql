@@ -1,1 +1,1 @@
-UPDATE species SET species.characters = 'The Hobbit' WHERE species.characters = "cylon";
+UPDATE species SET species.characters = 'The Hobbit' WHERE characters = "cylon";
