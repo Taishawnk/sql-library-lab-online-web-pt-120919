@@ -1,3 +1,3 @@
-UPDATE species
-SET characters = 'The Hobbit' WHERE characters = "cylon";
+UPDATE characters
+SET s = 'The Hobbit' WHERE characters = "cylon";
 
